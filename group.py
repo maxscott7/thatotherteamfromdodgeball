@@ -15,5 +15,6 @@ def taylorInfo():
 
 def kavinInfo():
     name = "Kavin Wickham"
+    year = "Junior"
 
 taylorInfo()
