@@ -16,5 +16,7 @@ def taylorInfo():
 def kavinInfo():
     name = "Kavin Wickham"
     year = "Junior"
+    major = "Computer Science"
+    hobbies = "Video Games, Music, Weight Lifting"
 
 taylorInfo()
