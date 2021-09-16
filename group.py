@@ -17,6 +17,8 @@ def kavinInfo():
     name = "Kavin Wickham"
     year = "Junior"
     major = "Computer Science"
-    hobbies = "Video Games, Music, Weight Lifting"
+    hobbies = "Video Games, Music, Weight Lifting, and Cars"
+    home = "Hamilton, MT"
+    fact = "I used to throw discus!"
 
 taylorInfo()
