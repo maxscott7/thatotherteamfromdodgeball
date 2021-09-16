@@ -21,4 +21,10 @@ def kavinInfo():
     home = "Hamilton, MT"
     fact = "I used to throw discus!"
 
+    print("Hi my name is " + name + " I am currently a " + year +
+          " and my major is " + major + ". My hobbies include: " + hobbies +
+          ". I was born and raised in " + home + ". A fun fact about me is "
+          + fact + ".")
+
 taylorInfo()
+kavinInfo()
