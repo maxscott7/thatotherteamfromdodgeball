@@ -1,6 +1,8 @@
 def maxInfo():
     print(Maxwell Scott)
     print(Junior)
+    print(Computer Science)
+    print(Running, Outdoors)
 def taylorInfo():
     name = "Taylor Powell"
     year = "Junior"
