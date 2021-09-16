@@ -1,8 +1,11 @@
 def maxInfo():
-    print(Maxwell Scott)
-    print(Junior)
-    print(Computer Science)
-    print(Running, Outdoors)
+    print('Maxwell Scott')
+    print('Junior')
+    print('Computer Science')
+    print('Running, Outdoors')
+    print('Portland Oregon')
+    print('I have never been snowboarding or skiing')
+    
 def taylorInfo():
     name = "Taylor Powell"
     year = "Junior"
