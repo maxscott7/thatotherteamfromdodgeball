@@ -1,5 +1,6 @@
 def maxInfo():
-    name = "Maxwell Scott"
+    print(Maxwell Scott)
+    print(Junior)
 def taylorInfo():
     name = "Taylor Powell"
     year = "Junior"
@@ -29,3 +30,5 @@ def kavinInfo():
 taylorInfo()
 
 kavinInfo()
+
+maxInfo()
